@@ -108,8 +108,8 @@ This section details the methods and outcomes used to confirm the Windows client
         * DNS Servers: `192.168.1.1`
 
     * **Significance:** This conclusively validates that the Windows client VM is correctly connected to the `LabNet` and successfully obtained its network configuration from the pfSense firewall's DHCP server, unequivocally confirming pfSense's role as the network's central service provider.
-    * **Screenshot**:
-![](Assets/Screenshot_18-Jun_11-59-04_22524.png)
+    * **Screenshot**: 
+![](Assets/Screenshot_18-Jun_14-57-14_30994.png)
 * **Test 3: Internet Connectivity Through pfSense**
     * **Method:** From the same Command Prompt, executed `ping google.com` to verify external network reachability.
     * **Expected Result:** Successful ICMP echo replies from `google.com`.
