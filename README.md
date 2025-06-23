@@ -32,8 +32,17 @@ Each project includes detailed documentation in Markdown, covering objectives, s
     * *Key Skills:* Client OS installation (Windows 10/11), network configuration for internal networks, DHCP client verification, internet connectivity validation through pfSense.
     * *Status:* **Completed and Verified**
 
-* **Active Directory Lab Setup** (Coming Soon!)
-    * *Objective:* Install and configure a Windows Server as a Domain Controller for Active Directory.
+* **[Active Directory Lab Setup](HomeLab/SSCP/Project%20-%20Active%20Directory%20Lab.md)**
+    * *Objective:* Install and configure a Windows Server VM as a Domain Controller for an Active Directory domain, establishing centralized management.
+    * *Key Skills:* Windows Server installation, static IP/DNS configuration for DCs, AD DS role installation, server promotion, domain creation, post-promotion verification.
+    * *Status:* **Completed and Verified**
+
+* **Windows VM Hardening (CIS Benchmarks)** (Coming Soon!)
+    * *Objective:* Apply security configurations and hardening techniques to Windows VMs.
+    * *Status:* Planning
+
+* **Active Directory: Role-Based Access Control (RBAC) Implementation** (Coming Soon!)
+    * *Objective:* Design and implement a basic RBAC model within Active Directory.
     * *Status:* Planning
 
 ---
